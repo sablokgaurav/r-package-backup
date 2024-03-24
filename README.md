@@ -34,9 +34,9 @@ package_repo <- function(){
     return(install)
 }
 ```
-
-
 Gaurav Sablok \
 Academic Staff Member \
-Universität Potsdam \
-Germany
+Bioinformatics \
+Institute for Biochemistry and Biology \
+University of Potsdam \
+Potsdam,Germany
